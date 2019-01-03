@@ -1,7 +1,7 @@
 # QtLogAndHighlight  
 
 参考资料：  
-【1】Simple-logger  
+【1】Simple-logger
 https://wiki.qt.io/Simple-logger  
 
 【2】Qt QTextEdit 语法高亮
